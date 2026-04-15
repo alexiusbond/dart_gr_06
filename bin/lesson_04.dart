@@ -79,3 +79,5 @@ void scopeExample(int paramVariable) {
 }
 
 String globalVariable = 'Я глобальная переменная';
+
+// End of program
