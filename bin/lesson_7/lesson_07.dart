@@ -1,1 +1,4 @@
-void main() {}
+void main() {
+
+  // Start of program
+}
